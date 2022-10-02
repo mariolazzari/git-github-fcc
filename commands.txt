@@ -1,0 +1,26 @@
+git status
+git add .
+git commit -m "message"
+
+ssh-keygen -t rsa -b 4096 -C "email address"
+
+git push origin master
+git push -u origin master
+
+git remote add origil repository_url
+git remote -v
+
+git branch
+git checkout -b branch_name
+
+git diff branch_name
+git push --set-upstream origin feature-readme-instructions
+git push -u origin feature-readme-instructions
+
+git checkout branch_name
+git diff master
+git merge master
+git checkout master
+git brench -d branch_name
+
+
