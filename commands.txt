@@ -20,5 +20,7 @@ git push -u origin feature-readme-instructions
 git checkout branch_name
 git diff master
 git merge master
+git checkout master
+git brench -d branch_name
 
 
