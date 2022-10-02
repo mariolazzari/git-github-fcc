@@ -1,0 +1,15 @@
+git status
+git add .
+git commit -m "message"
+
+ssh-keygen -t rsa -b 4096 -C "email address"
+
+git push origin master
+git push -u origin master
+
+git remote add origil repository_url
+git remote -v
+
+git branch
+git checkout -b branch_name
+
