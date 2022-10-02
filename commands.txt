@@ -23,4 +23,7 @@ git merge master
 git checkout master
 git brench -d branch_name
 
-
+git reset
+git reset HEAD1
+git log
+git reset hash
