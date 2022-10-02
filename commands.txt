@@ -17,3 +17,8 @@ git diff branch_name
 git push --set-upstream origin feature-readme-instructions
 git push -u origin feature-readme-instructions
 
+git checkout branch_name
+git diff master
+git merge master
+
+
