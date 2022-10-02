@@ -13,3 +13,5 @@ git remote -v
 git branch
 git checkout -b branch_name
 
+git diff branch_name
+
